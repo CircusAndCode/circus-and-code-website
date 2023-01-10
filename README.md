@@ -1,2 +1,7 @@
 # circus-and-code-website
-This is the repository to build the Circus And Code website.
+## Why this project exists and what it does
+## How to access the use project
+## How users can get help
+## Essential project documentation
+## Contributors
+## Project License
