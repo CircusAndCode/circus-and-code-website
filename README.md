@@ -4,5 +4,7 @@
 ## How users can get help
 ## Essential project documentation
   ### - CircusAndCode project Code of Conduct
-## Contributors
+## Frequently Asked Questions  
+## Contributors and How to Contribute:
+  Check out the CONTRIBUTING.md file to get started.
 ## Project License
